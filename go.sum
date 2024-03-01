@@ -1,0 +1,6 @@
+github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
+github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/paul-at-nangalan/errorhandler v0.0.0-20220524092750-75ec0f2eca41 h1:V7IwB6JpPaDqD1itevPX0bPLzcyJE4oH5zhHlYG8p4c=
+github.com/paul-at-nangalan/errorhandler v0.0.0-20220524092750-75ec0f2eca41/go.mod h1:+GfM6Su5CerpcLIHxjym4LzoLFCKSSQtlCnKYVjqqUM=
+gotest.tools/v3 v3.5.1 h1:EENdUnS3pdur5nybKYIh2Vfgc8IUNBjxDPSjtiJcOzU=
+gotest.tools/v3 v3.5.1/go.mod h1:isy3WKz7GK6uNw/sbHzfKBLvlvXwUyV06n6brMxxopU=
